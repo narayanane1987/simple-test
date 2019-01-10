@@ -1,2 +1,3 @@
-# simple-test
-get familiar with git
+# Simple Sample Repository
+
+Sample repository to list some file content
